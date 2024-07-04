@@ -27,24 +27,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Valencia1337&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Valencia1337&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=elaina1337vu&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elaina1337vu&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valencia1337&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Valencia1337&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=elaina1337vu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Valencia1337&theme=tokyo-night"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=elaina1337vu&theme=tokyo-night"/>
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Valencia1337">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Valencia1337&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Valencia1337&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Valencia1337&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valencia1337&theme=2077" height="180em" />
+<a href="https://github.com/elaina1337vu">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elaina1337vu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elaina1337vu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elaina1337vu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elaina1337vu&theme=2077" height="180em" />
 </div>
   
 ### ✍️ Random Dev Quote
